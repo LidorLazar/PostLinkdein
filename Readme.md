@@ -75,6 +75,9 @@ The programs bulid with:
 
 # Importent read before run the app
 <p>
+<h2>
+Workin only Win and Chrome!!
+</h2>
 In line 25-26 you need get yours parameters
 <img src="images/important.png">
 <b>If dont get the parameters the program dont work
