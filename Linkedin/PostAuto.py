@@ -31,5 +31,5 @@ input_text = driver.find_element(By.CLASS_NAME, 'ql-editor.ql-blank')
 input_text.send_keys(file)
 
 send_post = driver.find_element("xpath", "//div[@class = 'share-box_actions']//span[@class = 'artdeco-button__text']")
-# send_post.click()
+send_post.click()
 
